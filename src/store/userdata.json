@@ -1,0 +1,24 @@
+[
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Biswaranjan" ,
+        "email" : "mohantybiswa@gmail.com",
+        "password" : "abc@123",
+        "role" : "Admin User",
+        "number" : "123456789",
+        "address" : "xyzzzz",
+        "state" : "Odisha",
+        "zipcode" : "123456"
+    },
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Ronak" ,
+        "email" : "ronak3344@gmail.com",
+        "password" : "mohanty@123",
+        "role" : "Normal User",
+        "number" : "123456789",
+        "address" : "xyzzzz",
+        "state" : "Odisha",
+        "zipcode" : "123456"
+    }
+]
